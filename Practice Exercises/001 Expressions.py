@@ -3,9 +3,7 @@
 # PRACTICE EXERSISES 1 - EXPRESSIONS
 #
 # Solve each of the practice exercises below. 
-# Note that many of these exercises focus on converting a mathematical formula in an equivalent Python expression.
-# For these exercises, I will always provide the formula. Your task is to write the Python expression:
-#
+# 
 # -------------------------------------------------------------------------------------------------
 
 
